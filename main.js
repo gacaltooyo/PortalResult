@@ -632,10 +632,12 @@ function result(){
     let definition = Students[input];
     let output = document.getElementById("Output")
     let btnResult = document.querySelector(".btnResult");
-    let USernme = document.querySelector("#USername")
+    let USernme = document.querySelector("#USername");
+    let header = doucment.querySelector(".header");
     
     btnResult.style.display = "none";
     USernme.style.display = "none";
+    header.style.display = "none";
     
     if(definition == undefined){
         output.innerHTML = "<hr>There is no result <hr>"
