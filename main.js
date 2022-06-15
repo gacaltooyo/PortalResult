@@ -44,21 +44,21 @@ function result(){
             
         },
         //student result
-        // abdirahman48: {
-        //     Name:" Abdirahman Osman Mohamed",
-        //     Window:"82",
-        //     Word:"89",
-        //     Excel:"85",
-        //     Access:"80",
-        //     ppt:"84",
-        //     Hardware:"97",
-        //     Multimedia:"100",
-        //     Webdesign:"100",
-        //     Total:717,
-        //     Average:"89.6%",
-        //     Grade:"B+"
+        abdirahman48: {
+            Name:" Abdirahman Osman Mohamed",
+            Window:"82",
+            Word:"89",
+            Excel:"85",
+            Access:"80",
+            ppt:"84",
+            Hardware:"97",
+            Multimedia:"100",
+            Webdesign:"100",
+            Total:717,
+            Average:"89.6%",
+            Grade:"B+"
             
-        // },
+        },
         // dalmar98:{
         //     Name:" Dalmar Baryare Matan ",
         //     Window:"82",
