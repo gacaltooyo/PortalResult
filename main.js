@@ -74,21 +74,21 @@ function result(){
 //             Grade:"B+"
             
 //         },
-        // sayid40: {
-        //     Name:" Sayid Ali Mohamed",
-        //     Window:"79",
-        //     Word:"83",
-        //     Excel:"79",
-        //     Access:"81",
-        //     ppt:"80",
-        //     Hardware:"97",
-        //     Multimedia:"88",
-        //     Webdesign:"96",
-        //     Total:683,
-        //     Average:"85.4%",
-        //     Grade:"B+"
+        sayid40: {
+            Name:" Sayid Ali Mohamed",
+            Window:"79",
+            Word:"83",
+            Excel:"79",
+            Access:"81",
+            ppt:"80",
+            Hardware:"97",
+            Multimedia:"88",
+            Webdesign:"96",
+            Total:683,
+            Average:"85.4%",
+            Grade:"B+"
             
-        // },
+        },
         ruwaydo41: {
             Name:" Ruwayda Dalel Dhore",
             Window:"80",
