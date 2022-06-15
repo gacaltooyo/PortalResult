@@ -180,7 +180,7 @@ function result(){
             
         },
         mahad42: {
-            Name:"Mahad Abdi Ali",
+            Name:" Mahad Abdi Ali",
             Window:"82",
             Word:"79",
             Excel:"76",
