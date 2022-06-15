@@ -59,21 +59,21 @@ function result(){
             Grade:"B+"
             
         },
-        dalmar98:{
-            Name:" Dalmar Baryare Matan ",
-            Window:"82",
-            Word:"91",
-            Excel:"79",
-            Access:"72",
-            ppt:"85",
-            Hardware:"83",
-            Multimedia:"100",
-            Webdesign:"100",
-            Total:692,
-            Average:"86.5%",
-            Grade:"B+"
+//         dalmar98:{
+//             Name:" Dalmar Baryare Matan ",
+//             Window:"82",
+//             Word:"91",
+//             Excel:"79",
+//             Access:"72",
+//             ppt:"85",
+//             Hardware:"83",
+//             Multimedia:"100",
+//             Webdesign:"100",
+//             Total:692,
+//             Average:"86.5%",
+//             Grade:"B+"
             
-        },
+//         },
         // sayid40: {
         //     Name:" Sayid Ali Mohamed",
         //     Window:"79",
