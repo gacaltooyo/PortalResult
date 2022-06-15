@@ -633,7 +633,7 @@ function result(){
     let output = document.getElementById("Output")
     let btnResult = document.querySelector(".btnResult");
     let USernme = document.querySelector("#USername");
-    let header = doucment.querySelector(".header");
+    let header = document.querySelector(".header");
     
     btnResult.style.display = "none";
     USernme.style.display = "none";
