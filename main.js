@@ -44,21 +44,21 @@ function result(){
             
         },
         //student result
-        abdirahman48: {
-            Name:" Abdirahman Osman Mohamed",
-            Window:"82",
-            Word:"89",
-            Excel:"85",
-            Access:"80",
-            ppt:"84",
-            Hardware:"97",
-            Multimedia:"100",
-            Webdesign:"100",
-            Total:717,
-            Average:"89.6%",
-            Grade:"B+"
+//         abdirahman48: {
+//             Name:" Abdirahman Osman Mohamed",
+//             Window:"82",
+//             Word:"89",
+//             Excel:"85",
+//             Access:"80",
+//             ppt:"84",
+//             Hardware:"97",
+//             Multimedia:"100",
+//             Webdesign:"100",
+//             Total:717,
+//             Average:"89.6%",
+//             Grade:"B+"
             
-        },
+//         },
 //         dalmar98:{
 //             Name:" Dalmar Baryare Matan ",
 //             Window:"82",
@@ -73,22 +73,22 @@ function result(){
 //             Average:"86.5%",
 //             Grade:"B+"
             
-//         },
-        sayid40: {
-            Name:" Sayid Ali Mohamed",
-            Window:"79",
-            Word:"83",
-            Excel:"79",
-            Access:"81",
-            ppt:"80",
-            Hardware:"97",
-            Multimedia:"88",
-            Webdesign:"96",
-            Total:683,
-            Average:"85.4%",
-            Grade:"B+"
+//          },
+//         sayid40: {
+//             Name:" Sayid Ali Mohamed",
+//             Window:"79",
+//             Word:"83",
+//             Excel:"79",
+//             Access:"81",
+//             ppt:"80",
+//             Hardware:"97",
+//             Multimedia:"88",
+//             Webdesign:"96",
+//             Total:683,
+//             Average:"85.4%",
+//             Grade:"B+"
             
-        },
+//         },
         ruwaydo41: {
             Name:" Ruwayda Dalel Dhore",
             Window:"80",
