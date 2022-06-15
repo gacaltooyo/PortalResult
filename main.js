@@ -14,7 +14,7 @@ function result(){
             Average:"90%",
             Grade:"A+"
         },
-        Abdalla6499: {
+        abdalla6499: {
             Name:" Abdalla Dauud Elmi",
             Window:"80",
             Word:"30",
