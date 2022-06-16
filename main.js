@@ -193,21 +193,21 @@ function result(){
             Average:"70.6%",
             Grade:"C+"  
         },
-        // abdishakur93: {
-        //     Name: " Abdishakur Ali mohamed",
-        //     Window:"79",
-        //     Word:"80",
-        //     Excel:"79",
-        //     Access:"78",
-        //     ppt:"76",
-        //     Hardware:"87",
-        //     Multimedia:"80",
-        //     Webdesign:"0",
-        //     Total:559,
-        //     Average:"69.9%",
-        //     Grade:"C+"
+        abdishakur93: {
+            Name: " Abdishakur Ali mohamed",
+            Window:"79",
+            Word:"80",
+            Excel:"79",
+            Access:"78",
+            ppt:"76",
+            Hardware:"87",
+            Multimedia:"80",
+            Webdesign:"0",
+            Total:559,
+            Average:"69.9%",
+            Grade:"C+"
             
-        // },
+        },
         anisa38: {
             Name:" Anisa Mohamed Hussien",
             Window:"85",
@@ -490,21 +490,21 @@ function result(){
             Grade:"B"
             
         },
-        abdifitah24: {
-            Name:" Abdifitah Abdullahi Mohamed",
-            Window:"94",
-            Word:"94",
-            Excel:"80",
-            Access:"88",
-            ppt:"87",
-            Hardware:"98",
-            Multimedia:"95",
-            Webdesign:"38 + project",
-            Total:674,
-            Average:"84.3%",
-            Grade:"B"
+//         abdifitah24: {
+//             Name:" Abdifitah Abdullahi Mohamed",
+//             Window:"94",
+//             Word:"94",
+//             Excel:"80",
+//             Access:"88",
+//             ppt:"87",
+//             Hardware:"98",
+//             Multimedia:"95",
+//             Webdesign:"38 + project",
+//             Total:674,
+//             Average:"84.3%",
+//             Grade:"B"
             
-        },
+//         },
         abdisamad45: {
             Name:" Abdisamad Ali Mohamed",
             Window:"80",
