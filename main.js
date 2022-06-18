@@ -490,21 +490,21 @@ function result(){
             Grade:"B"
             
         },
-//         abdifitah24: {
-//             Name:" Abdifitah Abdullahi Mohamed",
-//             Window:"94",
-//             Word:"94",
-//             Excel:"80",
-//             Access:"88",
-//             ppt:"87",
-//             Hardware:"98",
-//             Multimedia:"95",
-//             Webdesign:"38 + project",
-//             Total:674,
-//             Average:"84.3%",
-//             Grade:"B"
+        abdifitah24: {
+            Name:" Abdifitah Abdullahi Mohamed",
+            Window:"94",
+            Word:"94",
+            Excel:"80",
+            Access:"88",
+            ppt:"87",
+            Hardware:"98",
+            Multimedia:"95",
+            Webdesign:"38 + project",
+            Total:674,
+            Average:"84.3%",
+            Grade:"B"
             
-//         },
+        },
         abdisamad45: {
             Name:" Abdisamad Ali Mohamed",
             Window:"80",
