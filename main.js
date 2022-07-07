@@ -415,19 +415,19 @@ function result(){
         //     Grade:"C+"
             
         // },
-        // ahmed10: {
-        //     Name:" Ahmed Abukar Hassan",
-        //     Window:"80",
-        //     Word:"83",
-        //     Excel:"79",
-        //     Access:"82",
-        //     ppt:"88",
-        //     Hardware:"90",
-        //     Multimedia:"85",
-        //     Webdesign:"33 + project",
-        //     Total:620,
-        //     Average:"78%",
-        //     Grade:"C+"
+        ahmed10: {
+            Name:" Ahmed Abukar Hassan",
+            Window:"80",
+            Word:"83",
+            Excel:"79",
+            Access:"82",
+            ppt:"88",
+            Hardware:"90",
+            Multimedia:"85",
+            Webdesign:"33 + project",
+            Total:620,
+            Average:"78%",
+            Grade:"C+"
             
         // },
         abdimahad10: {
