@@ -429,7 +429,7 @@ function result(){
             Average:"78%",
             Grade:"C+"
             
-        // },
+         },
         abdimahad10: {
             Name:" AbdiMahad Abdullahi Mohamed",
             Window:"80",
